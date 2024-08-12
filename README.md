@@ -7,7 +7,7 @@
 To run the experiment of an algorithm, first go to the corresponding folder, for example, if you want to test per-key Magnifiersketch, 
 
 ```
-cd Magnifiersketch-main
+cd Magnifiersketch
 ```
 
 Then, to compile the code:
